@@ -5,3 +5,4 @@
 4. sonar 代码扫描
 5. git hooks
 6. docker
+7. jenkins pipeline
