@@ -4,3 +4,4 @@
 3. test  代码测试
 4. sonar 代码扫描
 5. git hooks
+6. docker
