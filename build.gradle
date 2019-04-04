@@ -55,6 +55,13 @@ test {
     useJUnitPlatform()
 }
 
+/*git hooks*/
+copy {
+    from "./config/githooks/"
+    into "./.git/hooks/"
+    fileMode 0755
+}
+
 /*jacoco 测试覆盖率*/
 jacocoTestReport {
     reports {
