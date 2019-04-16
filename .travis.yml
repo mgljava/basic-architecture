@@ -3,4 +3,4 @@ install: true
 jdk:
   - oraclejdk8
 script:
-  - gradle clean build
+  - ./gradlew clean build
