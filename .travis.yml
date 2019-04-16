@@ -3,5 +3,5 @@ install: true
 jdk:
   - oraclejdk8
 script:
-  - chmod +x ./gradlew clean build
+  - chmod +x ./gradlew
   - ./gradlew clean build
