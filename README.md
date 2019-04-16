@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/mgljava/basic-architecture.svg?branch=master)](https://travis-ci.org/mgljava/basic-architecture)
 # basic-architecture
 1. check style 代码检查
 2. jacoco 代码测试覆盖率
